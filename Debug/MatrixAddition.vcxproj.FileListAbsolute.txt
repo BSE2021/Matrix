@@ -1,0 +1,2 @@
+C:\Users\092834\source\repos\MatrixAddition\Debug\MatrixAddition.exe
+C:\Users\092834\source\repos\MatrixAddition\Debug\MatrixAddition.pdb
