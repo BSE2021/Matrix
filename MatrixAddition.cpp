@@ -48,7 +48,7 @@ int main()
 	}
 
 	//output matrix C
-	cout << "matrix C\n";
+	cout << "Addition of matrices A & B is matrix C\n";
 	for (i = 0; i < 2; i++) {
 		for (j = 0; j < 2; j++) {
 			cout << c[i][j] << "\t";

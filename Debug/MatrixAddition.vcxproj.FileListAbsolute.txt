@@ -1,2 +1,4 @@
 C:\Users\092834\source\repos\MatrixAddition\Debug\MatrixAddition.exe
 C:\Users\092834\source\repos\MatrixAddition\Debug\MatrixAddition.pdb
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\MatrixAddition\Debug\MatrixAddition.exe
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\MatrixAddition\Debug\MatrixAddition.pdb
